@@ -1,0 +1,64 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 500px) {
+    main {
+        width: 490px;
+        height: 400px;
+        display: flex;
+        flex-direction: column;
+       
+        
+    }
+
+    #rating {
+        background-color: red;
+        
+    }
+
+    #rating h1 {
+        background-color: gray;
+        width: 200px;
+        text-align: left;
+        float: left;
+        padding-bottom: 20px;
+        
+        
+    }
+
+    .fontp {
+        width: 200px;
+        font-size: 0.6em;
+        text-align: justify;
+        height: 70px;
+        padding-top: 10px;
+        
+        
+        
+    }
+
+    #stars {
+        background-color: lightblue;
+        width: 290px;
+        height: 100px;
+        float: right;
+        margin-top: -70px;
+
+    }
+
+    #stars p {
+        font-size: 0.6em;
+        float: right;
+    }
+
+    
+
+    #comentary {
+        display: flex;
+        padding-top: 100px;
+        
+
+    }
+
+    .coment {
+    
+    }
